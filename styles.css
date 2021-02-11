@@ -253,3 +253,24 @@ nav {
 }
 
 /* End of Hero Styles */
+
+/* Discover Our Story */
+.global-headline {
+	text-align: center;
+	margin-top: 3.9rem;
+}
+
+.discover-our-story .global-headline {
+	margin-top: 6.9rem;
+}
+
+.global-headline .asterisk {
+	color: var(--body-font-color);
+	margin: 2.4rem 0;
+}
+
+.headline-dark {
+	color: var(--main-font-color-dark);
+	letter-spacing: 0.7rem;
+	margin-right: 0.7rem;
+}
