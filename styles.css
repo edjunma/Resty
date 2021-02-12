@@ -274,3 +274,28 @@ nav {
 	letter-spacing: 0.7rem;
 	margin-right: 0.7rem;
 }
+
+.global-headline .sub-headline {
+	letter-spacing: -1px;
+	line-height: 0.42;
+}
+
+.restaurant-info {
+	text-align: center;
+}
+
+.restaurant-description {
+	margin-bottom: 3rem;
+}
+
+.restaurant-description p {
+	line-height: 1.6;
+	margin-bottom: 2.4rem;
+}
+
+.body-btn {
+	font-size: 1.5rem;
+	color: var(--secondary-font-color);
+	position: relative;
+	transition: color .5s;
+}
