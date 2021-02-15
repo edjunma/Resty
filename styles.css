@@ -350,3 +350,12 @@ nav {
 	background: url('images/perfect-blend.jpg') center no-repeat;
 	background-size: cover;
 }
+
+/* Footer Styles */
+footer {
+	padding: 7.9rem 0;
+	background-color: #121212;
+	color: #fff;
+	text-align: center;
+	position: relative;
+}
