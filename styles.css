@@ -536,4 +536,40 @@ footer {
 		max-width: 77.5rem;
 		margin: auto;
 	}
+
+	.footer-content-about {
+		max-width: 51.3rem;
+		margin: 0 auto 5.4rem;
+	}
+
+	.footer-content-divider {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.social-media,
+	.newsletter-form {
+		width: 100%;
+		max-width: 27.3rem;
+		margin: 0 1rem;
+	}
+
+	.social-icons i {
+		opacity: 1;
+	}
+
+	.newsletter-btn {
+		margin-left: 7.5rem;
+	}
+}
+
+/* Animations */
+@keyframes fadeUp {
+	0% {
+		transform: translateY(4rem);
+	}
+
+	100% {
+		opacity: 1;
+	}
 }
